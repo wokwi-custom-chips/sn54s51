@@ -21,4 +21,4 @@ Then, add the chip to your circuit by adding a `chip-sn54s51` item to the `parts
   },
 ```
 
-For a complete example, see [The sn54s51 chip test project](https://wokwi.com/projects/399335684070736897).
+For a complete example, see [The sn54s51 chip test project](https://wokwi.com/projects/399368479628075009).
